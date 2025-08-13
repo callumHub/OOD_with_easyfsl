@@ -16,3 +16,15 @@ Some library modifications may require reshaping the mlp output with a redundant
 
 ##  Using this repo
 See model_runner.py for a basic run example, relies on methods in 'prototype_model_runner.py' Learning and using these methods is likely more difficult than the above method, as this code was built rapidly and thus is ridgid and hard to extend
+
+
+## Packages to install. 
+pytorch (using instructions on pytorch getting started webpage)
+pandas
+numpy
+tqdm
+scipy
+sklearn
+matplotlib
+seaborn
+pytest
